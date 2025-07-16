@@ -4,19 +4,8 @@ format:
   html:
     theme: default
     css: styles.css
+    raw-html: true
 ---
 
-<div id="app-container">
-  <div id="field-container">
-    <svg id="cricket-field" viewBox="0 0 500 500">
-      <circle cx="250" cy="250" r="240" stroke="green" stroke-width="3" fill="none" />
-      <circle cx="250" cy="250" r="132" stroke="lightgreen" stroke-dasharray="5,5" stroke-width="2" fill="none" />
-      <rect x="240" y="150" width="20" height="200" fill="brown" />
-    </svg>
-  </div>
+<img src="field.png" alt="Cricket Field" id="field-image" style="width:90%;max-width:600px;border-radius:16px;box-shadow:0 4px 24px rgba(0,0,0,0.05);background:#e8f5e9;" />
 
-  <div id="sidebar">
-    <h2>📝 Strategy Panel</h2>
-    <p>Drag and place fielders (coming soon)</p>
-  </div>
-</div>
