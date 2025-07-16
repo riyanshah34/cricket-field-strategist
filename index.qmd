@@ -1,0 +1,8 @@
+---
+title: "Cricket Field Strategist"
+format: html
+---
+
+# 🏏 Welcome to Cricket Field Strategist
+
+This is your Quarto web app.
