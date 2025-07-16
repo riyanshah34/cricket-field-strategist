@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cricket Field Strategist",
+    "section": "",
+    "text": "&lt;svg id=\"cricket-field\" viewBox=\"0 0 500 500\"&gt;\n  &lt;circle cx=\"250\" cy=\"250\" r=\"240\" stroke=\"green\" stroke-width=\"3\" fill=\"none\" /&gt;\n  &lt;circle cx=\"250\" cy=\"250\" r=\"132\" stroke=\"lightgreen\" stroke-dasharray=\"5,5\" stroke-width=\"2\" fill=\"none\" /&gt;\n  &lt;rect x=\"240\" y=\"150\" width=\"20\" height=\"200\" fill=\"brown\" /&gt;\n&lt;/svg&gt;\n\n\n&lt;h2&gt;📝 Strategy Panel&lt;/h2&gt;\n&lt;p&gt;Drag and place fielders (coming soon)&lt;/p&gt;"
+  }
+]

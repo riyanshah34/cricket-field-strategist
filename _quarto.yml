@@ -1,0 +1,7 @@
+project:
+  type: website
+  title: "Cricket Field Strategist"
+website:
+  navbar:
+    title: Home
+    href: index.qmd
